@@ -5,7 +5,7 @@
 - 📫 How to reach me x.com(formely known as twitter) & linked in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-
+- Interested in Ethical Hacking...
 <!---
 Priyansh-81/Priyansh-81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
